@@ -1,8 +1,9 @@
-HI I AM ADITYA JOHN,
-I AM INTERESTED IN CODING,
-I AM CURRENTLY LEARNING CLOUD COMPUTING, C++, HTML, CSS, JAVASCRIPT
-I AM LOOKING TO COLLABORATE ON ANY CODING ACTIVITY OR PROJECT,
-YOU CAN REACH ME VIA>>> GMAIL=(johnaditya46@gmail.com)
+Hi, I am Aditya John,
+I am a smart working, passionate, resourceful, innovative, flexible, and enthusiastic person. I have an
+impressive track record of delivering major tasks, improvising a situation, schedules and resources for opti
+mumproductivity, efficiency, and quality.
+
+YOU CAN REACH ME VIA MY >>> Gmail=( johnaditya46@gmail.com )
 
 <!---
 aditya0john/aditya0john is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
