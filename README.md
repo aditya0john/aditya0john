@@ -1,5 +1,5 @@
 # 💫 About Me:
-A passionate and resourceful Computer Science graduate with a strong track record in web and mobile<br>application development. Adept at delivering high-quality projects, optimizing productivity, and solving<br>complex problems. Seeking a challenging position to leverage my technical expertise and innovative mind<br>set.
+Results-driven Full-Stack Developer proficient in modern JavaScript frameworks with hands-on experience building scalable and secure web applications. Strong foundation in React, Next.js, Node.js, and MongoDB with a focus on performance optimization and clean UI/UX. Adept at developing end-to-end features, integrating third-party services, and deploying applications using CI/CD pipelines. Looking to join globally impactful tech teams and build transformative digital products
 
 
 ## 🌐 Socials:
